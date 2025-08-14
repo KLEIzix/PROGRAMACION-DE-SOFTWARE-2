@@ -2,3 +2,4 @@
 clases de git pull and push, commits  
 Modificacion en la nube 1  
 Nueva rama  
+cambio en local para generar conflicto  
