@@ -2,8 +2,5 @@
 clases de git pull and push, commits  
 Modificacion en la nube 1  
 Nueva rama  
-<<<<<<< HEAD
 cambio en local para generar conflicto  
-=======
 Cambio en la nube para generar conflicto  
->>>>>>> refs/remotes/origin/main
