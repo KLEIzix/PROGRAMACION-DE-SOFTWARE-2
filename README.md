@@ -14,3 +14,6 @@ Cambio de practica 9:21PM
 Cambio desde la nube de practica 9:43  
 Cambio de Prueba desde local para generar conflicto 12:24am  
 Cambio de prueba desde la nube para generar conflicto 12:24  
+
+------------------------------------------------------- 
+    PRUEBAS DE GIT 20/08/25 
